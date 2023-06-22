@@ -2,12 +2,9 @@
   <br>
   <a href="https://www.retrobat.org/"><img src="https://raw.githubusercontent.com/kaylh/RetroBat/master/system/resources/retrobat_logo.svg" alt="retrobat" width="500"></a>
 </h1>
-<p align="left">
-  <a href="https://discord.gg/k8mg99cY6F">
-      <img src="https://img.shields.io/discord/748519802255179917?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge"
-           alt="Discord">
-    </a>
-</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RetroBat_Off?ref_src=twsrc%5Etfw) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/groups/retrobat) [![Discord](https://img.shields.io/discord/748519802255179917?color=blue&label=discord&logo=discord&logoColor=white)](https://social.retrobat.org/discord) [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://retrobatofficial.itch.io/retrobat) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 RetroBat is designed to automatically configure EmulationStation’s frontend interface with RetroArch and other stand alone emulators.
 
@@ -18,8 +15,6 @@ RetroBat automatically downloads and installs all the relevant software needed t
 RetroBat can also run in Portable Mode. This means you can play games from an external hard drive or from any removable storage device, as long as the computer meets the minimum requirements.
 
 Our project believe in the Contributor Covenant Code of Conduct to make a positive environment for everyone. Before using RetroBat or [contributing](https://github.com/RetroBat-Official/.github/blob/main/profile/CONTRIBUTING.md) you must [read our standards](https://github.com/RetroBat-Official/.github/blob/main/profile/CODE_OF_CONDUCT.md) and agree with it.
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
 ## 💻 System Requirements
 
