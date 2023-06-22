@@ -19,7 +19,7 @@ RetroBat can also run in Portable Mode. This means you can play games from an ex
 
 Our project believe in the Contributor Covenant Code of Conduct to make a positive environment for everyone. Before using RetroBat or [contributing](https://github.com/RetroBat-Official/.github/blob/main/profile/CONTRIBUTING.md) you must [read our standards](https://github.com/RetroBat-Official/.github/blob/main/profile/CODE_OF_CONDUCT.md) and agree with it.
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
 ## 💻 System Requirements
 
