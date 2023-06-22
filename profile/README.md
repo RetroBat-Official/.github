@@ -17,7 +17,7 @@ RetroBat automatically downloads and installs all the relevant software needed t
 
 RetroBat can also run in Portable Mode. This means you can play games from an external hard drive or from any removable storage device, as long as the computer meets the minimum requirements.
 
-Our project believe in the Contributor Covenant Code of Conduct to make a positive environment for everyone. Before using RetroBat or [contributing](https://github.com/RetroBat-Official/.github/blob/main/CONTRIBUTING.md) you must [read our standards](https://github.com/RetroBat-Official/.github/blob/main/CODE_OF_CONDUCT.md) and agree with it.
+Our project believe in the Contributor Covenant Code of Conduct to make a positive environment for everyone. Before using RetroBat or [contributing](https://github.com/RetroBat-Official/.github/blob/main/profile/CONTRIBUTING.md) you must [read our standards](https://github.com/RetroBat-Official/.github/blob/main/profile/CODE_OF_CONDUCT.md) and agree with it.
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
 
