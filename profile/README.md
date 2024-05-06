@@ -1,10 +1,10 @@
 <h1 align="left">
   <br>
-  <a href="https://www.retrobat.org/"><img src="https://raw.githubusercontent.com/kaylh/RetroBat/master/system/resources/retrobat_logo.svg" alt="retrobat" width="500"></a>
+  <a href="https://www.retrobat.org/"><img src="https://github.com/RetroBat-Official/retrobat-setup/blob/2d22590743dff783c551df46d8967dba65a2edea/system/resources/retrobat_logo.png" alt="retrobat" width="500"></a>
 </h1>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RetroBat_Off?ref_src=twsrc%5Etfw) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/groups/retrobat) [![Discord](https://img.shields.io/discord/748519802255179917?color=blue&label=discord&logo=discord&logoColor=white)](https://social.retrobat.org/discord) [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://retrobatofficial.itch.io/retrobat) 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/RetroBat-Official/.github/blob/main/profile/CODE_OF_CONDUCT.md) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 RetroBat is designed to automatically configure EmulationStation’s frontend interface with RetroArch and other stand alone emulators.
 
@@ -14,19 +14,20 @@ RetroBat automatically downloads and installs all the relevant software needed t
 
 RetroBat can also run in Portable Mode. This means you can play games from an external hard drive or from any removable storage device, as long as the computer meets the minimum requirements.
 
-Our project believe in the Contributor Covenant Code of Conduct to make a positive environment for everyone. Before using RetroBat or [contributing](https://github.com/RetroBat-Official/.github/blob/main/profile/CONTRIBUTING.md) you must [read our standards](https://github.com/RetroBat-Official/.github/blob/main/profile/CODE_OF_CONDUCT.md) and agree with it.
+Our project believe in the Contributor Covenant Code of Conduct to make a positive environment for everyone. Before using RetroBat or [contributing](https://github.com/RetroBat-Official/.github/blob/6091395f55428168d1187ed313b71b371a013804/profile/CONTRIBUTING.md) you must [read our standards](https://github.com/RetroBat-Official/.github/blob/main/profile/CODE_OF_CONDUCT.md) and agree with it.
 
 ## 💻 System Requirements
 
 |**OS supported:**|Windows 11, Windows 10, Windows 8.1|
 |---|---|
-|**Processor:**|CPU with SSE2 support. 3 GHz and Dual Core, not older than 2008 is highly recommended.|
+|**Processor:**|Intel i3 5th gen CPU or AMD equivalent is a required minimum. Support of SSE2, SSE4, AVX instructions is highly recommended.|
 |**Graphics:**|Modern graphics card that supports Direct3D 11.1 / OpenGL 4.4 / Vulkan|
-|**Dependancies:**|[Visual C++ 2010 Redistributable Packages (32 bit)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|
+|**Dependencies:**|Since RetroBat 6, required dependencies can be installed with the RetroBat's Setup program, their separate installation is not needed anymore.|
+|   |[Visual C++ 2010 Redistributable Packages (32 bit)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|
 |   |[Visual C++ 2015, 2017 and 2019 Redistributable Packages (32 bit)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|
 |   |[Visual C++ 2015, 2017 and 2019 Redistributable Packages (64 bit)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|
 |   |[DirectX](https://www.microsoft.com/download/details.aspx?id=35)|
-|**Controllers:**|Xinput controllers hightly recommanded. Test your controller [HERE](https://gamepad-tester.com)|
+|**Controllers:**|Xinput controllers hightly recommended. Test your controller [HERE](https://gamepad-tester.com)|
 
 
 ## 🦇 RetroBat Team
@@ -71,7 +72,7 @@ Finally, the license which concerns the entire RetroBat project as a work, in pa
 - WiimoteGun (c) Fabrice Caruso (GPL3 Licence).
 - RetroArch by Libretro Team (GPL3 Licence).
 
-## 💬 Social & Support
+## 💬 Community & Support
 
 - Official Website: https://www.retrobat.org/
 - Facebook Group: https://social.retrobat.org/facebook
