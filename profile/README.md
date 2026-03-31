@@ -1,6 +1,6 @@
 <h1 align="left">
   <br>
-  <a href="https://www.retrobat.org/"><img src="https://github.com/RetroBat-Official/retrobat-setup/blob/2d22590743dff783c551df46d8967dba65a2edea/system/resources/retrobat_logo.png" alt="retrobat" width="500"></a>
+  <a href="https://www.retrobat.org/"><img src="https://github.com/RetroBat-Official/retrobat/blob/main/resources/retrobat_logo.png" alt="retrobat" width="500"></a>
 </h1>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RetroBat_Off?ref_src=twsrc%5Etfw) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/groups/retrobat) [![Discord](https://img.shields.io/discord/748519802255179917?color=blue&label=discord&logo=discord&logoColor=white)](https://discord.gg/GVcPNxwzuT) [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://retrobatofficial.itch.io/retrobat) 
